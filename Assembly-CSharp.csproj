@@ -46,7 +46,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\MexeSaida.cs" />
+     <Compile Include="Assets\Scripts\coletarMoedas.cs" />
+     <Compile Include="Assets\Scripts\moedinhas.cs" />
      <Compile Include="Assets\Scripts\movimentacao.cs" />
+     <Compile Include="Assets\Scripts\passadeFase.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
